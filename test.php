@@ -7,7 +7,7 @@
  *
  */
 
-require_once 'PdfChinese.php';
+require_once './src/PdfChinese.php';
 
 $pdf = new PdfChinese();
 
