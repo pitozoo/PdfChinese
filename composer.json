@@ -1,9 +1,9 @@
 {
-  "name": "pitozoo/PdfChinese",
+  "name": "pitozoo/pdfchinese",
   "type": "library",
-  "description": "Connection for third party",
-  "keywords": [ "PdfChinese" ],
-  "homepage": "https://github.com/pitozoo/PdfChinese",
+  "description": "php pdf lib , with chinese",
+  "keywords": [ "pdfchinese" ],
+  "homepage": "https://github.com/pitozoo/pdfchinese",
   "license": "MIT",
   "authors": [
     {
@@ -18,7 +18,7 @@
   },
   "autoload": {
     "psr-4": {
-      "PdfChinese\\": "/src"
+      "pdfchinese\\": "/src"
     }
   }
 }
