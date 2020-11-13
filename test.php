@@ -2,7 +2,7 @@
 
 /**
  * @name 支持中文的pdf插件 演示
- * @authors Pitozoo (599562695@qq.com)
+ * @authors Pitozoo (pitozoo@sina.com)
  * @date    2020-11-13 09:04:00
  *
  */
