@@ -1,0 +1,10 @@
+{
+  "name": "pitozoo/PdfChinese",
+  "authors": [
+      {
+          "name": "pitozoo",
+          "email": "pitozoo@sina.com"
+      }
+  ],
+  "require": {}
+}
